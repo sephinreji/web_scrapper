@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'django_scraper',
         'USER': 'django_scraper',
         'HOST': '',
-        'PORT': '5432',
+
         'PASSWORD':'root'
     }
 }
